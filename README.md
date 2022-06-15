@@ -8,7 +8,7 @@ To run the benchmark, you will need:
 - PIP3
 
 ###  Installation
-- Download Folder:benchmark
+- Download Folder: benchmark 
 
 ```sh
 sudo apt-get update
@@ -20,7 +20,7 @@ sudo apt-get install python3-virtualenv
 To run the benchmark, you will need:
 - [Python](https://www.python.org/downloads/release/python-375/) - Python
 ```sh
-cd SystemMetaLearning
+cd benchmark 
 ```
 Create a virtual environment Linux Ubuntu:
 ```sh
