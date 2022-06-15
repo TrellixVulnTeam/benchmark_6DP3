@@ -1,0 +1,472 @@
+---
+
+- name: fri_c4_500_50
+  openml_task_id: 3670
+
+- name: fri_c4_500_25
+  openml_task_id: 3703
+
+- name: fri_c4_500_10
+  openml_task_id: 3720
+
+- name: fri_c4_250_50
+  openml_task_id: 3781
+
+- name: fri_c4_250_25
+  openml_task_id: 3796
+
+- name: fri_c4_250_10
+  openml_task_id: 3727
+
+- name: fri_c4_100_50
+  openml_task_id: 3795
+
+- name: fri_c4_100_25
+  openml_task_id: 3732
+
+- name: fri_c4_100_10
+  openml_task_id: 3742
+
+- name: fri_c4_1000_50
+  openml_task_id: 3662
+
+- name: fri_c4_1000_25
+  openml_task_id: 3589
+
+- name: fri_c4_1000_10
+  openml_task_id: 3617
+
+- name: fri_c3_500_50
+  openml_task_id: 3800
+
+- name: fri_c3_500_5
+  openml_task_id: 3615
+
+- name: fri_c3_500_5
+  openml_task_id: 3759
+
+- name: fri_c3_500_25
+  openml_task_id: 3799
+
+- name: fri_c3_500_10
+  openml_task_id: 3737
+
+- name: fri_c3_250_50
+  openml_task_id: 3610
+
+- name: fri_c3_250_5
+  openml_task_id: 3697
+
+- name: fri_c3_250_25
+  openml_task_id: 3658
+
+- name: fri_c3_250_10
+  openml_task_id: 3582
+
+- name: fri_c3_100_50
+  openml_task_id: 3582
+
+- name: fri_c3_100_5
+  openml_task_id: 3779
+
+- name: fri_c3_100_25
+  openml_task_id: 3634
+
+- name: fri_c3_100_10
+  openml_task_id: 3648
+
+- name: fri_c3_1000_50
+  openml_task_id: 3671
+
+- name: fri_c3_1000_5
+  openml_task_id: 3678
+
+- name: fri_c3_1000_25
+  openml_task_id: 3581
+
+- name: fri_c3_1000_10
+  openml_task_id: 3606
+
+- name: fri_c2_500_50
+  openml_task_id: 3783
+
+- name: fri_c2_500_5
+  openml_task_id: 3657
+
+- name: fri_c2_500_25
+  openml_task_id: 3743
+
+- name: fri_c2_500_10
+  openml_task_id: 3733
+
+- name: fri_c2_250_50
+  openml_task_id: 3741
+
+- name: fri_c2_250_5
+  openml_task_id: 3774
+
+- name: fri_c2_250_25
+  openml_task_id: 3659
+
+- name: fri_c2_250_10
+  openml_task_id: 3695
+
+- name: fri_c2_100_50
+  openml_task_id: 3785
+
+- name: fri_c2_100_5
+  openml_task_id: 3592
+
+- name: fri_c2_100_25
+  openml_task_id: 3641
+
+- name: fri_c2_100_10
+  openml_task_id: 3628
+
+- name: fri_c2_1000_50
+  openml_task_id: 3730
+
+- name: fri_c2_1000_5
+  openml_task_id: 3775
+
+- name: fri_c2_1000_25
+  openml_task_id: 3766
+
+- name: fri_c2_1000_10
+  openml_task_id: 3776
+
+- name: fri_c1_500_50
+  openml_task_id: 3632
+
+- name: fri_c1_500_5
+  openml_task_id: 3734
+
+- name: fri_c1_500_25
+  openml_task_id: 3645
+
+- name: fri_c1_500_10
+  openml_task_id: 3689
+
+- name: fri_c1_250_5
+  openml_task_id: 3596
+
+- name: fri_c1_250_10
+  openml_task_id: 3798
+
+- name: fri_c1_100_5
+  openml_task_id: 3694
+
+- name: fri_c1_1000_5
+  openml_task_id: 3609
+
+- name: fri_c1_1000_10
+  openml_task_id: 3773
+
+- name: fri_c0_500_50
+  openml_task_id: 3751
+
+- name: fri_c0_500_5
+  openml_task_id: 3747
+
+- name: fri_c0_500_25
+  openml_task_id: 3789
+
+- name: fri_c0_500_10
+  openml_task_id: 3806
+
+- name: fri_c0_250_50
+  openml_task_id: 3598
+
+- name: fri_c0_250_5
+  openml_task_id: 3642
+
+- name: fri_c0_250_25
+  openml_task_id: 3639
+
+- name: fri_c0_250_10
+  openml_task_id: 3629
+
+- name: fri_c0_100_50
+  openml_task_id: 3715
+
+- name: fri_c0_100_5
+  openml_task_id: 3620
+
+- name: fri_c0_100_25
+  openml_task_id: 3752
+
+- name: fri_c0_100_10
+  openml_task_id: 3673
+
+- name: fri_c0_1000_50
+  openml_task_id: 3767
+
+- name: fri_c0_1000_5
+  openml_task_id: 3664
+
+- name: fri_c0_1000_25
+  openml_task_id: 3714
+
+- name: fri_c0_1000_10
+  openml_task_id: 3710
+
+- name: flags
+  openml_task_id: 3018
+
+- name: fertility
+  openml_task_id: 9984
+
+- name: elevators
+  openml_task_id: 3711
+
+- name: ecoli
+  openml_task_id: 3874
+
+- name: disclosure_z
+  openml_task_id: 3794
+
+- name: disclosure_x_tampered
+  openml_task_id: 3660
+
+- name: disclosure_x_noise
+  openml_task_id: 3692
+
+- name: disclosure_x_bias
+  openml_task_id: 3640
+
+- name: diggle_table_a2
+  openml_task_id: 3683
+
+- name: delta_elevators
+  openml_task_id: 3684
+
+- name: delta_ailerons
+  openml_task_id: 3668
+
+- name: datatrieve
+  openml_task_id: 3923
+
+- name: cpu_small
+  openml_task_id: 3601
+
+- name: cpu_act
+  openml_task_id: 3627
+
+- name: cpu
+  openml_task_id: 3661
+
+- name: covertype
+  openml_task_id: 218
+
+- name: collins
+  openml_task_id: 3850
+
+- name: cmc
+  openml_task_id: 3846
+
+- name: cloud
+  openml_task_id: 3753
+
+- name: chscase_census6
+  openml_task_id: 3763
+
+- name: chscase_census5
+  openml_task_id: 3769
+
+- name: chscase_census4
+  openml_task_id: 3770
+
+- name: chscase_census3
+  openml_task_id: 3771
+
+- name: chscase_census2
+  openml_task_id: 3772
+
+- name: chatfield_4
+  openml_task_id: 3685
+
+- name: cardiotocography
+  openml_task_id: 9898
+
+- name: car
+  openml_task_id: 3854
+
+- name: breast-tissue
+  openml_task_id: 9897
+
+- name: breast-cancer-dropped-missing-attributes-values
+  openml_task_id: 52945
+
+- name: boston_corrected
+  openml_task_id: 3690
+
+- name: boston
+  openml_task_id: 3718
+
+- name: bodyfat
+  openml_task_id: 3644
+
+- name: blogger
+  openml_task_id: 10094
+
+- name: bank8FM
+  openml_task_id: 3591
+
+- name: bank32nh
+  openml_task_id: 3698
+
+- name: bank-marketing
+  openml_task_id: 9899
+
+- name: balance-scale
+  openml_task_id: 3860
+
+- name: badges2
+  openml_task_id: 3955
+
+- name: backache
+  openml_task_id: 3554
+
+- name: auto_price
+  openml_task_id: 3611
+
+- name: autoUniv-au7-700
+  openml_task_id: 9905
+
+- name: autoUniv-au7-500
+  openml_task_id: 9903
+
+- name: autoUniv-au7-1100
+  openml_task_id: 9906
+
+- name: autoUniv-au6-750
+  openml_task_id: 9904
+
+- name: autoUniv-au6-400
+  openml_task_id: 9907
+
+- name: autoUniv-au6-1000
+  openml_task_id: 9902
+
+- name: autoUniv-au1-1000
+  openml_task_id: 9909
+
+- name: autoPrice
+  openml_task_id: 3622
+
+- name: arsenic-male-lung
+  openml_task_id: 3814
+
+- name: arsenic-male-bladder
+  openml_task_id: 3810
+
+- name: arsenic-female-lung
+  openml_task_id: 3813
+
+- name: arsenic-female-bladder
+  openml_task_id: 3812
+
+- name: ar6
+  openml_task_id: 3914
+
+- name: ar4
+  openml_task_id: 3911
+
+- name: ar1
+  openml_task_id: 3909
+
+- name: analcatdata_wildcat
+  openml_task_id: 3614
+
+- name: analcatdata_vineyard
+  openml_task_id: 3590
+
+- name: analcatdata_supreme
+  openml_task_id: 3594
+
+- name: analcatdata_seropositive
+  openml_task_id: 3784
+
+- name: analcatdata_michiganacc
+  openml_task_id: 3637
+
+- name: analcatdata_lawsuit
+  openml_task_id: 3542
+
+- name: analcatdata_germangss
+  openml_task_id: 3887
+
+- name: analcatdata_dmft
+  openml_task_id: 3877
+
+- name: analcatdata_creditscore
+  openml_task_id: 3552
+
+- name: analcatdata_chlamydia
+  openml_task_id: 3739
+
+- name: analcatdata_boxing2
+  openml_task_id: 3538
+
+- name: analcatdata_boxing1
+  openml_task_id: 3540
+
+- name: analcatdata_authorship
+  openml_task_id: 3833
+
+- name: analcatdata_apnea3
+  openml_task_id: 3630
+
+- name: analcatdata_apnea2
+  openml_task_id: 3631
+
+- name: analcatdata_apnea1
+  openml_task_id: 3633
+
+- name: acute-inflammations
+  openml_task_id: 9901
+
+- name: abalone
+  openml_task_id: 3586
+
+- name: SPECTF
+  openml_task_id: 3496
+
+- name: SPECT
+  openml_task_id: 3495
+
+- name: PopularKids
+  openml_task_id: 3937
+
+- name: PizzaCutter3
+  openml_task_id: 7559
+
+- name: PizzaCutter1
+  openml_task_id: 7558
+
+- name: PieChart3
+  openml_task_id: 10099
+
+- name: PieChart2
+  openml_task_id: 10098
+
+- name: PieChart1
+  openml_task_id: 10097
+
+- name: MegaWatt1
+  openml_task_id: 7556
+
+- name: JapaneseVowels
+  openml_task_id: 3839
+
+- name: CostaMadre1
+  openml_task_id: 7557
+
+- name: Click_prediction_small
+  openml_task_id: 14971
+
+- name: CastMetal1
+  openml_task_id: 10096
+
+- name: BNG(cmc)
+  openml_task_id: 2146
