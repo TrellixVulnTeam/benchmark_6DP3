@@ -8,7 +8,7 @@ To run the benchmark, you will need:
 - PIP3
 
 ###  Installation
-- Download Folder: SystemMetaLearning
+- Download Folder:benchmark
 
 ```sh
 sudo apt-get update
