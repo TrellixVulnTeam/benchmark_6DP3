@@ -1,0 +1,25 @@
+---
+
+- name: quake
+  openml_task_id: 3638
+
+- name: pwLinear
+  openml_task_id: 3587
+
+- name: puma8NH
+  openml_task_id: 3681
+
+- name: puma32H
+  openml_task_id: 3618
+
+- name: prnn_fglass
+  openml_task_id: 3815
+
+- name: prnn_crabs
+  openml_task_id: 3539
+
+- name: pollen
+  openml_task_id: 3735
+
+
+

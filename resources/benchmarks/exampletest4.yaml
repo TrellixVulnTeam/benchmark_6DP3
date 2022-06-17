@@ -1,0 +1,31 @@
+---
+
+- name: tae
+  openml_task_id: 3818
+
+- name: synthetic_control
+  openml_task_id: 3667
+
+- name: strikes
+  openml_task_id: 3636
+
+- name: stock
+  openml_task_id: 3706
+
+- name: splice
+  openml_task_id: 3816
+
+- name: space_ga
+  openml_task_id: 3603
+
+- name: sonar
+  openml_task_id: 39
+
+- name: socmob
+  openml_task_id: 3797
+
+- name: sleuth_case2002
+  openml_task_id: 3765
+
+- name: servo
+  openml_task_id: 3613

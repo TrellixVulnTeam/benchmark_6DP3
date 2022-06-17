@@ -1,0 +1,31 @@
+---
+
+- name: wisconsin
+  openml_task_id: 3619
+
+- name: wind
+  openml_task_id: 3712
+
+- name: wholesale-customers
+  openml_task_id: 9988
+
+- name: waveform-5000
+  openml_task_id: 3842
+
+- name: wall-robot-navigation
+  openml_task_id: 9942
+
+- name: walking-activity
+  openml_task_id: 9945
+
+- name: vowel
+  openml_task_id: 3879
+
+- name: volcanoes-e3
+  openml_task_id: 9917
+
+- name: volcanoes-d4
+  openml_task_id: 9923
+
+- name: kc1-binary
+  openml_task_id: 3916

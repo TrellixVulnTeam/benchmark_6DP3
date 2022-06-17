@@ -1,0 +1,31 @@
+---
+
+- name: volcanoes-d3
+  openml_task_id: 9922
+
+- name: volcanoes-d2
+  openml_task_id: 9921
+
+- name: volcanoes-d1
+  openml_task_id: 9920
+
+- name: volcanoes-b5
+  openml_task_id: 9931
+
+- name: volcanoes-a4
+  openml_task_id: 9926
+
+- name: volcanoes-a3
+  openml_task_id: 9925
+
+- name: volcanoes-a2
+  openml_task_id: 9924
+
+- name: volcanoes-a1
+  openml_task_id: 10103
+
+- name: visualizing_soil
+  openml_task_id: 3786
+
+- name: visualizing_galaxy
+  openml_task_id: 3788

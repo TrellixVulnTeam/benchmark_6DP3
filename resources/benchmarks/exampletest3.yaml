@@ -1,0 +1,31 @@
+---
+
+- name: visualizing_environmental
+  openml_task_id: 3602
+
+- name: veteran
+  openml_task_id: 3585
+
+- name: vertebra-column
+  openml_task_id: 9939
+
+- name: vehicle
+  openml_task_id: 3857
+
+- name: user-knowledge
+  openml_task_id: 9944
+
+- name: twonorm
+  openml_task_id: 9943
+
+- name: triazines
+  openml_task_id: 3653
+
+- name: transplant
+  openml_task_id: 3748
+
+- name: thoracic-surgery
+  openml_task_id: 9969
+
+- name: teachingAssistant
+  openml_task_id: 3949

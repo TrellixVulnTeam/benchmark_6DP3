@@ -1,0 +1,31 @@
+---
+
+- name: sensory
+  openml_task_id: 3691
+
+- name: seismic-bumps
+  openml_task_id: 9963
+
+- name: segment
+  openml_task_id: 3821
+
+- name: seeds
+  openml_task_id: 9962
+
+- name: sa-heart
+  openml_task_id: 9961
+
+- name: robot-failures-lp5
+  openml_task_id: 9938
+
+- name: robot-failures-lp4
+  openml_task_id: 9937
+
+- name: rmftsa_ladata
+  openml_task_id: 3583
+
+- name: ringnorm
+  openml_task_id: 9959
+
+- name: qualitative-bankruptcy
+  openml_task_id: 9958
