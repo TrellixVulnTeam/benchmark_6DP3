@@ -6,9 +6,6 @@
 - name: wind
   openml_task_id: 3712
 
-- name: wholesale-customers
-  openml_task_id: 9988
-
 - name: waveform-5000
   openml_task_id: 3842
 

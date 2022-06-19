@@ -1,23 +1,5 @@
 ---
 
-- name: fri_c4_500_50
-  openml_task_id: 3670
-
-- name: fri_c4_500_25
-  openml_task_id: 3703
-
-- name: fri_c4_500_10
-  openml_task_id: 3720
-
-- name: fri_c4_250_50
-  openml_task_id: 3781
-
-- name: fri_c4_250_25
-  openml_task_id: 3796
-
-- name: fri_c4_250_10
-  openml_task_id: 3727
-
 - name: fri_c4_100_50
   openml_task_id: 3795
 
